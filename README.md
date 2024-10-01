@@ -25,5 +25,8 @@ Certifique-se de ter as seguintes ferramentas instaladas para rodar este projeto
 - **Node.js** (versão 18.0 ou superior)
 - **npm** (gerenciador de pacotes, vem com o Node.js)
 - **Angular CLI** (versão 17)
-</br>
-https://www.youtube.com/watch?v=zXL0hmil964&list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__
+<br/>
+https://www.youtube.com/watch?v=zXL0hmil964&list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__<br/>
+<br/>
+Material complementar: <br/>
+https://ralflima.com/treinamentos/angular17/03criar_executar.php
