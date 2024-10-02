@@ -1,22 +1,5 @@
-.quadrado{
-    width: 150px;
-    height: 200px;
-}
-.loteria {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-
-.loteria li {
-    padding: 5px;
-    padding-left: 10px;
-    margin-left: 20px;
-    transition: background-color 0.3s; /* Suaviza a troca de cor */
+.quadrado {
+    width: 300px;
+    height: 300px;
     background-color: aquamarine;
-}
-
-.loteria li:hover {
-    background-color: #022ffa; /* Cor de fundo ao passar o mouse */
-    color: #fff;
 }
